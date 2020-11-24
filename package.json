@@ -2,7 +2,7 @@
   "name": "passport-swoop",
   "version": "0.1.0",
   "description": "Custom passport strategy for swoopnow.com passwordless authentication",
-  "main": "index.js",
+  "main": "./lib",
   "dependencies": {
     "passport-strategy": "^1.0.0"
   },
