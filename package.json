@@ -4,6 +4,7 @@
   "description": "Custom passport strategy for swoopnow.com passwordless authentication",
   "main": "./lib",
   "dependencies": {
+    "passport-oauth": "^1.0.0",
     "passport-strategy": "^1.0.0"
   },
   "devDependencies": {},
