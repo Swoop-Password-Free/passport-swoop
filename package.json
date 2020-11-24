@@ -1,0 +1,23 @@
+{
+  "name": "passport-swoop",
+  "version": "0.1.0",
+  "description": "Custom passport strategy for swoopnow.com passwordless authentication",
+  "main": "index.js",
+  "dependencies": {
+    "passport-strategy": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swoop-Password-Free/passport-swoop.git"
+  },
+  "author": "Charlie Wisoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Swoop-Password-Free/passport-swoop/issues"
+  },
+  "homepage": "https://github.com/Swoop-Password-Free/passport-swoop#readme"
+}
