@@ -3,6 +3,12 @@
   "version": "0.1.0",
   "description": "Custom passport strategy for swoopnow.com passwordless authentication",
   "main": "./lib",
+  "keywords": [
+    "passport",
+    "swoop",
+    "auth",
+    "authentication"
+  ],
   "dependencies": {
     "passport-oauth": "^1.0.0"
   },
