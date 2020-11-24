@@ -21,5 +21,5 @@ passport.use(new SwoopStrategy({
 If you are contributing to this node package you can test it by:
 
 (1) running `npm link` from the package's root directory  
-(2) running `npm link swoop` from the directory of a test application
+(2) running `npm link passport-swoop` from the directory of a test application
 
