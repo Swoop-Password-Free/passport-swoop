@@ -1,5 +1,5 @@
 ## Description
-Custom passport strategy for [Swoop](http://swoopnow.com) a password-free authentication tool. 
+Custom passport strategy for [Swoop](http://swoopnow.com), a password-free authentication tool. 
 
 ## Usage
 Run `npm install passport-swoop` to install the package
