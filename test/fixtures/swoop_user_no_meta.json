@@ -1,0 +1,9 @@
+{
+  "iss": "https://auth.swoop.email",
+  "sub": "6e1f795771381c2ad70a8728",
+  "aud": "swoop_24w424k8gers3w",
+  "nonce": "9111eaca-f445-4be7-a899-56a2f445ed08",
+  "email": "info@swoopnow.com",
+  "iat": 1609175908,
+  "exp": 1609176208  
+}
