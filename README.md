@@ -72,7 +72,9 @@ app.get('/auth/swoop/callback',
 
 ## Examples
 
-Coming soon...
+Developers using the popular [Express](http://expressjs.com/) web framework can
+refer to an [example](https://github.com/Swoop-Password-Free/express-4.x-swoop-example)
+as a starting point for their own web applications.
 
 ## Testing
 If you are contributing to this node package you can test it by:
