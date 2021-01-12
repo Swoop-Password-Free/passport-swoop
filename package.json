@@ -26,8 +26,8 @@
     "type": "git",
     "url": "git+https://github.com/Swoop-Password-Free/passport-swoop.git"
   },
-  "author": "Charlie Wisoff",
-  "license": "ISC",
+  "author": "Swoop In Technologies <support@swoopnow.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Swoop-Password-Free/passport-swoop/issues"
   },
