@@ -13,7 +13,7 @@ describe('Strategy#userProfile', function() {
       }, function() {});
 
     strategy._oauth2.get = function(url, accessToken, callback) {
-      if (url != 'https://staging.auth.swoop.email/oauth2/profile') { return callback(new Error('incorrect url argument')); }
+      if (url != 'https://auth.swoop.email/oauth2/profile') { return callback(new Error('incorrect url argument')); }
       if (accessToken != 'token') { return callback(new Error('incorrect token argument')); }
 
       var body = '{"sub":"6e1f795771381c2ad70a8728","email":"info@swoopnow.com"}';
@@ -37,7 +37,7 @@ describe('Strategy#userProfile', function() {
 
     it('should set raw property', function() {
       expect(profile._raw).to.be.a('string');
-    });    
+    });
   }); // fetched from default endpoint
 
 
